@@ -1,0 +1,15 @@
+{
+    "ip": "ip here",
+    "sys_os": "\u041c\u0430\u0439\u043a\u0440\u043e\u0441\u043e\u0444\u0442-Windows-11-\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f",
+    "sys_cpu": "Intel(R)-Core(TM)-i5-10400F-CPU-@-2.90GHz",
+    "sys_gpu": "NVIDIA-GeForce-GTX-1650",
+    "sys_ram": "7.870506286621094",
+    "pc_owner": null,
+    "pc_family": null,
+    "pc_time_zone": null,
+    "data": {
+        "pressed_buttons": [
+            "[ctrl_l]\\x01[backspace]wfweufhuhuihewuhuef[enter]wefweifowe[up][up][down][enter]ewfwefweuifwe"
+        ]
+    }
+}
